@@ -1,0 +1,3 @@
+C:/Users/Ivan/Documents/GitHub/PI_2_semestr/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ivan/Documents/GitHub/PI_2_semestr/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/Ivan/Documents/GitHub/PI_2_semestr/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
